@@ -2,10 +2,10 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2016/12/09 11:02:46.000.167,=C:\Users\fernando.MOLDENOX\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2016/12/14 13:00:41.713,=C:\Users\fernando.MOLDENOX\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2016/12/14 13:00:58.454,C:\Users\fernando.MOLDENOX\Desktop\repositorio\Unit1.pas=C:\Users\fernando.MOLDENOX\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2016/12/14 13:00:58.454,C:\Users\fernando.MOLDENOX\Desktop\repositorio\Unit1.dfm=C:\Users\fernando.MOLDENOX\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2016/12/14 13:00:59.649,C:\Users\fernando.MOLDENOX\Desktop\repositorio\Project1.dproj=C:\Users\fernando.MOLDENOX\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2016/12/14 13:00:41.000.713,=C:\Users\fernando.MOLDENOX\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/12/14 13:00:58.000.454,C:\Users\fernando.MOLDENOX\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\fernando.MOLDENOX\Desktop\repositorio\Unit1.dfm</Transaction>
+    <Transaction>2016/12/14 13:00:58.000.454,C:\Users\fernando.MOLDENOX\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\fernando.MOLDENOX\Desktop\repositorio\Unit1.pas</Transaction>
+    <Transaction>2016/12/14 13:00:59.000.649,C:\Users\fernando.MOLDENOX\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\fernando.MOLDENOX\Desktop\repositorio\Project1.dproj</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
 		<PIMac iOSSimulator="_iossimulator_EBFAB128-0656-4D0F-9DB5-DFEC3950BDD7"/>

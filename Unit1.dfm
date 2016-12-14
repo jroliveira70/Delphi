@@ -45,21 +45,6 @@ object Form1: TForm1
     Height = 25
     Caption = 'Button2'
     TabOrder = 3
-  end
-  object Edit3: TEdit
-    Left = 297
-    Top = 208
-    Width = 121
-    Height = 21
-    TabOrder = 4
-    Text = 'Edit3'
-  end
-  object Button3: TButton
-    Left = 216
-    Top = 214
-    Width = 75
-    Height = 25
-    Caption = 'Button3'
-    TabOrder = 5
+    OnClick = Button2Click
   end
 end

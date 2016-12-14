@@ -12,9 +12,8 @@ type
     Edit1: TEdit;
     Edit2: TEdit;
     Button2: TButton;
-    Edit3: TEdit;
-    Button3: TButton;
     procedure Button1Click(Sender: TObject);
+    procedure Button2Click(Sender: TObject);
   private
     { Private declarations }
   public
@@ -31,6 +30,11 @@ implementation
 procedure TForm1.Button1Click(Sender: TObject);
 begin
  showmessage (Edit1.Text);
+end;
+
+procedure TForm1.Button2Click(Sender: TObject);
+begin
+ showmessage('lalalalal');
 end;
 
 end.
